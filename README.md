@@ -1,1 +1,1 @@
-# digitaladvertisingAPRD
+# Digital Advertising homework exercises
